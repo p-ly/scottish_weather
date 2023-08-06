@@ -1,2 +1,2 @@
-# scottish_weather
-Scottish Weather Analysis project
+# Scottish Weather Analysis
+This repository holds my Scottish weather analysis project
